@@ -1,0 +1,7 @@
+*
+!.gitignore
+!LICENSE
+!README
+!.config
+!.config/i3
+!.config/i3/config
