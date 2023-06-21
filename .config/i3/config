@@ -24,6 +24,7 @@ font pango:ubuntu mono 12
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
+exec --no-startup-id sbw
 exec --no-startup-id feh --bg-scale /home/jczornik/Pictures/listen-half.jpg
 exec --no-startup-id /usr/bin/emacs --daemon
 
